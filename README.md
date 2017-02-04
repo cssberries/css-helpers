@@ -1,2 +1,2 @@
 # css-helpers
-Collection of common CSS helpers
+Collection of CSS helper objects

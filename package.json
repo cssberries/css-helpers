@@ -1,8 +1,8 @@
 {
-  "name": "css-helpers",
+  "name": "helpers",
   "version": "1.0.0",
-  "description": "Collection of common CSS helpers",
-  "main": "css-helpers.less",
+  "description": "Collection of CSS helper objects",
+  "main": "helpers.less",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

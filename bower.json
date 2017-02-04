@@ -1,7 +1,7 @@
 {
-  "name": "css-helpers",
-  "description": "Collection of common CSS helpers",
-  "main": "css-helpers.less",
+  "name": "helpers",
+  "description": "Collection of CSS helper objects",
+  "main": "helpers.less",
   "authors": [
     "Yevgeniy Belov"
   ],
@@ -9,10 +9,11 @@
   "keywords": [
     "css",
     "helpers",
+    "objects",
     "oocss",
     "itc"
   ],
-  "homepage": "https://github.com/cssberries/css-helpers",
+  "homepage": "https://github.com/cssberries/helpers",
   "ignore": [
     "**/.*",
     "node_modules",
