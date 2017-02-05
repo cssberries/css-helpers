@@ -1,5 +1,6 @@
 {
   "name": "helpers",
+  "version": "0.0.1",
   "description": "Collection of CSS helper objects",
   "main": "helpers.less",
   "authors": [
